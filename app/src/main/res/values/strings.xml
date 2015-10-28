@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_take_phote">TakePhoteActivity</string>
+    <string name="title_activity_show_croppered">ShowCropperedActivity</string>
+</resources>
