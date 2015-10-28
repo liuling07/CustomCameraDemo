@@ -9,4 +9,4 @@ A demo for custom camera
 ![image](https://raw.githubusercontent.com/liuling07/CustomCameraDemo/master/example2.png)
 
 I use the prodect of cropper to achieve the function of cropper.
-prodect site: https://github.com/edmodo/cropper
+the site of cropper: https://github.com/edmodo/cropper
