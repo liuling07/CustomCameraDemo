@@ -17,4 +17,4 @@ the site of cropper: https://github.com/edmodo/cropper
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
-Visit <a href="http://www.cnblogs.com/liuling/p/2015-10-28-01.html">this post</a>, for more details.
+Visit <a href="http://www.cnblogs.com/liuling/p/2015-10-28-01.html" target="_black">this post</a>, for more details.
